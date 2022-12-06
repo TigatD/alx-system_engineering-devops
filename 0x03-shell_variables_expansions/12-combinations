@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (o_z)(O_Z)[tr ' ' '\n'] grep -v oo
+echo (o_z)(O_Z)[tr ' ' '\n']grep -v oo
